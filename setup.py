@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="queryset-paginator",
+    name="QuerysetPaginator",
     version="0.0.1",
     author="GetMeLive",
     author_email="tech@getmelive.in",
