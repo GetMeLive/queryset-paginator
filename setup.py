@@ -11,7 +11,7 @@ setuptools.setup(
     description="This package helps in paginating evaluated querysets",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/getmelive/EvaluatedQuerysetPaginator",
+    url="https://github.com/GetMeLive/queryset-paginator",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
